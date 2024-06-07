@@ -20,8 +20,6 @@ This repository is organized into several directories, each designed to serve a 
   - `fishing_data_modelling_v1.ipynb`: Main analysis notebook with model training and evaluation.
   - `fishing_data_analysis.ipynb`: Contains exploratory data analysis and initial findings.
 
-- **kepler_map_predictions_hex_level_and_model_based.html**: :world_map: An interactive Kepler.gl map visualization that highlights model predictions at the hexagon level.
-
 ### :mag: Analysis Highlights
 
 - **Data Analysis**: :fish: Analysed the different shipping data from different ships. Observed the seasonal and temporal changes of fishing ships.
